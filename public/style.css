@@ -1,0 +1,165 @@
+.top-most{
+    padding-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: royalblue;
+    height: 70px;
+    width: 100%;
+}
+.icon{
+    width: 20%;
+}
+.top{
+    color: white;
+    text-align: center;
+    font: 15px sans-serif;
+    width: 50%;
+    margin-top: 10px;
+}
+.three-boxes{
+    margin-top: 12px ;
+    color: darkgreen;
+    padding: 3px;
+    font: 12px sans-serif;
+    width: 27%;
+}
+.hover:hover{
+    background-color: #1E90FF;
+    border-radius: 10px;
+} 
+.navigation{
+    display: flex;
+    background-color: 	whitesmoke;
+    width: 100%;
+}
+.line{
+    border: #316dc3 ;
+    border-color: #316dc3 ;
+    color: white;
+    background-color: #316dc3 ;
+    padding: 10px;
+    width: 90%;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 10px;
+    text-align: center;
+}
+.favicon{
+    align-content: center;
+    width: 50px;
+}
+.three{
+    text-align: center;
+    border: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: whitesmoke;
+    width: 100%;
+}
+.para{ 
+    margin-top: 30px;
+    margin-left: 170px;
+    margin-right: 170px;
+    margin-bottom: 60px;
+    text-align: justify;
+    font: 1em sans-serif;
+    color: grey;
+}
+.four{
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: royalblue ;
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 50px;
+    color: white;
+    justify-content: space-around;
+    text-align: center;
+    width: 100%;
+}
+.text{
+    font-size: 15px;
+}
+.five{
+    display: flex;
+    text-align: center;
+    padding: 50px;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: whitesmoke;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    width: 100%;
+}
+.box{
+    width: 30%;
+    background-color: white;
+    border: white;
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 10px 10px 10px lightgray;
+    height: 160px;
+    color: royalblue;
+    font-size: 20px;
+    cursor: pointer;
+}
+.heading3{
+    font-size: 27px;
+    color: royalblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 20px;
+}
+.heading4{
+    font-size: 27px;
+    color: royalblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.paragraph{
+    top: 2580px;
+    right: 100px;
+    color: grey; 
+}
+.projects{
+    width: 45%;
+    background-color:whitesmoke;
+    border: whitesmoke;
+    margin: 15px;
+    padding: 15px;
+    padding-bottom: 50px;
+    height: 50px;
+    color: royalblue;
+    font-size: 20px;  
+    cursor: pointer;
+}
+.name{
+    margin-left: 60px;
+    position: relative;
+    bottom: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+}
+.images{
+    display: flex;
+    width: 100%;
+    padding-left: 130px;
+}
+.last{
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 200px;
+    width: 100%;
+}
+.bottom{
+    background-color: royalblue;
+    width: 100%;
+    height: 60px;
+}
+.top_to_bottom{
+    width: 50px;
+    height: 50px;
+}
+
+
+
+
+
+
